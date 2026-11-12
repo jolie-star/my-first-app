@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # my_first_app
 
 A new Flutter project.
@@ -20,3 +21,24 @@ samples, guidance on mobile development, and a full API reference.
 # my-first-app
 my first flutter application
 >>>>>>> 145931e8230a2134135caf4ce5ca50780b05134e
+=======
+# My First App
+
+My first Flutter application, created using Flutter and Dart.
+
+## Features
+- Simple home screen
+- Custom pink theme
+- Welcome message
+- Counter button
+
+## Built With
+- Flutter
+- Dart
+
+## How to Run
+1. Install Flutter.
+2. Open the project in VS Code.
+3. Run `flutter pub get`.
+4. Run `flutter run`.
+>>>>>>> origin/main
